@@ -1,6 +1,6 @@
 # Sistema Recicladora
 from __future__ import annotations
-
+#####/////-----ggggg
 import json
 import os
 import shutil
